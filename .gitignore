@@ -1,0 +1,11 @@
+# Real identity data and run output must never be committed
+/data/*
+!/data/.gitkeep
+/backups/
+/logs/
+*.log
+*_results.csv
+*_report.csv
+
+# Keep the fake sample files
+!/samples/*.csv

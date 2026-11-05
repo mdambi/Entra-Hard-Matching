@@ -1,4 +1,4 @@
-# entra-hard-match
+# Entra-hard-match
 
 Toolkit for hard-matching on-prem Active Directory users to existing Entra ID users with Entra Connect Sync,
 in controlled waves. Every script that can change something is **dry-run by default** and **logs every action**.

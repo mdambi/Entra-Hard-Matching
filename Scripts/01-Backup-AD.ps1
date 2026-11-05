@@ -11,7 +11,7 @@
 .EXAMPLE
     .\01-Backup-AD.ps1
 .EXAMPLE
-    .\01-Backup-AD.ps1 -SearchBase "OU=Staff,DC=ad,DC=kefri,DC=org" -Server DC-01
+    .\01-Backup-AD.ps1 -SearchBase "OU=Staff,DC=ad,DC=contoso,DC=com" -Server dc01.ad.contoso.com
 #>
 [CmdletBinding()]
 param(

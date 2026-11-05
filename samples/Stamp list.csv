@@ -1,0 +1,5 @@
+UPN,CloudId,ImmutableId,SamAccountName,Wave,Notes
+pilot.user@contoso.com,00000000-0000-4000-8000-000000009000,AAAAAAAAAECAAAAAAAAQAA==,pilot.user,0,Pilot - ICT staff
+jane.doe@contoso.com,00000000-0000-4000-8000-000000010777,AAAAAAAAAECAAAAAABEhEQ==,jane.doe,1,Finance
+john.smith@contoso.com,00000000-0000-4000-8000-000000017eee,AAAAAAAAAECAAAAAACIyIg==,john.smith,1,Finance
+mary.jones@contoso.com,00000000-0000-4000-8000-00000001f665,AAAAAAAAAECAAAAAADNDMw==,mary.jones,2,HQ branch

@@ -1,0 +1,3 @@
+Id,UserPrincipalName,Mail,OnPremisesSyncEnabled,OnPremisesImmutableId,DisplayName,MailNickname,AccountEnabled,UserType,Department,JobTitle,CreatedDateTime,OnPremisesLastSyncDateTime,ProxyAddresses,LicenseSkuIds
+00000000-0000-4000-8000-000000009000,pilot.user@contoso.com,pilot.user@contoso.com,,,Pilot User,pilot.user,True,Member,ICT,Engineer,2026-09-01,,SMTP:pilot.user@contoso.com,
+00000000-0000-4000-8000-000000010777,jane.doe@contoso.com,jane.doe@contoso.com,,,Jane Doe,jane.doe,True,Member,Finance,Accountant,2026-09-01,,SMTP:jane.doe@contoso.com,

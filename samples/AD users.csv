@@ -1,0 +1,3 @@
+SamAccountName,UserPrincipalName,mail,ImmutableId,AnchorSource,Enabled,DisplayName,Department,Title,DistinguishedName,ObjectGUID,ProxyAddresses,whenCreated,whenChanged,LastLogonDate,PasswordLastSet
+pilot.user,pilot.user@contoso.com,pilot.user@contoso.com,AAAAAAAAAECAAAAAAAAQAA==,objectGUID,True,Pilot User,ICT,Engineer,"CN=Pilot User,OU=Pilot,DC=ad,DC=contoso,DC=com",00000000-4000-0000-0010-000000000000,SMTP:pilot.user@contoso.com,2026-10-01,2026-11-01,2026-11-04,2026-10-01
+jane.doe,jane.doe@contoso.com,jane.doe@contoso.com,AAAAAAAAAECAAAAAABEhEQ==,objectGUID,True,Jane Doe,Finance,Accountant,"CN=Jane Doe,OU=Finance,DC=ad,DC=contoso,DC=com",00000000-4000-0000-0011-111100000000,SMTP:jane.doe@contoso.com,2026-10-01,2026-11-01,2026-11-04,2026-10-01
